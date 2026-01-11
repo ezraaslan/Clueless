@@ -1,0 +1,1 @@
+This is a variation on the Clueless web game. In the game, players have to guess the target word by entering other words they think are semantically or topically close to the target. However, I was frustrated with the online game because the software would not appropriately identify related words. So, I built my own using the gloVe python library. Enjoy!
